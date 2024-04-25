@@ -1,0 +1,10 @@
+__pycache__/
+env/
+images/
+match_images/
+old/
+osrs_dataset/
+outputs/
+runs/
+*.onnx
+*.pt
